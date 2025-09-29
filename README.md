@@ -30,6 +30,6 @@ If you're new to this repository, here are a few steps to help you get started:
 
 ## :earth_americas: Stay Connected
 
-I'm excited to share my work with you and contribute to the developer community. If you have any questions, suggestions, or just want to say hi, feel free to reach out to me via [telegram](https://t.me/Mr_G00D).
+I'm excited to share my work with you and contribute to the developer community. If you have any questions, suggestions, or just want to say hi, feel free to reach out to me via [telegram](https://t.me/Mr_G0OD).
 
 Let's code and create together! :rocket:
